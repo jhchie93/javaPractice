@@ -1,6 +1,6 @@
 package javaPractice.src;
 
-public class mainMethod {
+public class CH01_MainMethod {
     
     public static void main(String[] args) {
 
